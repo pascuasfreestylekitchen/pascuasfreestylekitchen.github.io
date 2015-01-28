@@ -77,6 +77,11 @@
 	color: #fff;
 }
 
+.color.black.transparent {
+	background: rgba(41,41,41,.8);
+	color: #fff;
+}
+
 .color.blue.transparent i {
 	color: #5bc2ce;
 }
@@ -1610,7 +1615,7 @@ a.buy:hover {
 
 
 #map {
-	height: 300px;
+	height: 440px;
 	width: 100%;	
 }
 
@@ -2609,6 +2614,36 @@ footer #social {
 	}
 	
 }	
+
+.contactinfo {
+	margin: 80px 0;
+}
+
+.contactinfo h4 {
+	font-size: 18px;
+	line-height: 20px;
+	margin-bottom: 10px;
+}
+
+.contactinfo h5 {
+	font-size: 14px;
+	line-height: 16px;
+	margin-bottom: 30px;
+}
+
+.contactinfo p {
+	margin: 10px 0;
+	font-style: italic;
+	font-size: 12px;
+}
+
+.contactinfo ul {
+
+}
+
+.contactinfo ul > li {
+	
+}
 
 .circlelogo {
 	background: url('../img/logo-circle.png') no-repeat left top;
