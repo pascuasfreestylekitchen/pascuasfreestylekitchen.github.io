@@ -2637,6 +2637,10 @@ footer #social {
 	font-size: 12px;
 }
 
+.contactinfo a {
+	color: #fff;
+}
+
 .contactinfo ul {
 
 }
