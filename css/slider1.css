@@ -317,12 +317,12 @@
 }
 
 .demo-1 .bg-4 .deco {
-	border-color: #379eaa;
+	border-color: #fff;
 }
 
 .demo-1 .bg-4 [data-icon]:after {
-	text-shadow: 0 0 1px #277d87;
-	color: #277d87;
+	text-shadow: 0 0 1px #fff;
+	color: #fff;
 }
 
 .demo-1 .bg-4 h2,
